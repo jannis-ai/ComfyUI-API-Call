@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated outputs (scripts write these on each run)
+output_image*.png
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# OS
+.DS_Store
